@@ -1,16 +1,15 @@
-# 🧠 Real Time Translation Core (RTTCore)
+# Real Time Translation Core (RTTCore)
 
-Welcome to **RTTCore** – the home of open-source, real-time translation technologies.
+Welcome to **RTTCore** – the home of open-source, real-time translation tools.
 
-**RTTCore** is dedicated to building fast, accessible, and intelligent tools that break language barriers. From live caption generation to instant voice translation, our mission is to enable seamless communication across cultures and platforms. Whether you're browsing videos, attending meetings, or building with our APIs – RTTCore brings real-time translation to your fingertips.
+We build fast, simple, and effective solutions to help people understand and communicate across languages. Whether you're watching videos, attending meetings, or building your own apps, **RTTCore** makes real-time translation easy and accessible for everyone.
 
-🔧 We're actively developing tools like:
-- **RTTCaptions**: Real-time caption translator for web content
-- **RTTVoice**: Stream-based real-time voice translator
-- **RTTApp**: All-in-one translation interface (coming soon)
+Currently in development:
+- **RTTCaptions**: Live voice-to-translated captions for any web content
 
-Stay tuned, contribute, or build with us. Let’s make language universal – in real time.
+Stay tuned, contribute, or build with us. Let’s break language barriers—together.
 
 ---
 
-🌍 Powered by the community. Built for everyone.
+Powered by the community. Built for everyone.
+
