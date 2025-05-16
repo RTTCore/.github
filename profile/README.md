@@ -1,12 +1,16 @@
-## Hi there 👋
+# 🧠 Real Time Translation Core (RTTCore)
 
-<!--
+Welcome to **RTTCore** – the home of open-source, real-time translation technologies.
 
-**Here are some ideas to get you started:**
+**RTTCore** is dedicated to building fast, accessible, and intelligent tools that break language barriers. From live caption generation to instant voice translation, our mission is to enable seamless communication across cultures and platforms. Whether you're browsing videos, attending meetings, or building with our APIs – RTTCore brings real-time translation to your fingertips.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🔧 We're actively developing tools like:
+- **RTTCaptions**: Real-time caption translator for web content
+- **RTTVoice**: Stream-based real-time voice translator
+- **RTTApp**: All-in-one translation interface (coming soon)
+
+Stay tuned, contribute, or build with us. Let’s make language universal – in real time.
+
+---
+
+🌍 Powered by the community. Built for everyone.
